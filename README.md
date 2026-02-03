@@ -2,9 +2,8 @@
 Analysis of scientific papers to understand relation between  novelty and impact
 
 
-> ** Work in Progress:** This repository is part of an ongoing project. An analysis notebook with visualizations will be added soon.
 
-This repository contains the data collection and preprocessing pipeline for a scientific paper analysis study. It processes academic papers from the [Semantic Scholar Academic Graph](https://www.semanticscholar.org/product/api) across three research domains: **Computer Science (AI)**, **Physics**, and **Psychology**.
+This repository contains the data collection, preprocessing pipeline and analysis for a scientific paper analysis study. It processes academic papers from the [Semantic Scholar Academic Graph](https://www.semanticscholar.org/product/api) across three research domains: **Computer Science (AI)**, **Physics**, and **Psychology**.
 
 ## Repository Structure
 
